@@ -1,0 +1,20 @@
+
+.header_content{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+
+span{
+    color: #ffc60c;
+}
+
+.content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+
+footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: #666;
+}
